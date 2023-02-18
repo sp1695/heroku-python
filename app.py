@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello from Swati v.0.0.2!"
+    return "Hello from Swati v.0.0.3!"
